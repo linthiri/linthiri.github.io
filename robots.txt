@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://linthiri.github.io/sitemap.html.gz
+Sitemap: https://linthiri.github.io/app/sitemap.html.gz
+Sitemap: https://linthiri.github.io/assets/sitemap.html.gz
+Sitemap: https://linthiri.github.io/css/sitemap.html.gz
+Sitemap: https://linthiri.github.io/includes/sitemap.html.gz
+Sitemap: https://linthiri.github.io/item/sitemap.html.gz
+Sitemap: https://linthiri.github.io/src/sitemap.html.gz
